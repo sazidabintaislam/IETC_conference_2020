@@ -8,7 +8,7 @@ As an initial experiment, a binary CNN network has been trained and validated to
 
 A callback function has been applied to the model that stops the training procedure after reaching a particular accuracy/loss score. In thia ripository contains two seperate code: with and without callback function. 
 
-#### To read full paper click [here]{https://ieeexplore-ieee-org.libproxy.txstate.edu/document/9031190} 
+#### To read full paper click [here](https://ieeexplore-ieee-org.libproxy.txstate.edu/document/9031190)
 
 ### Libraries:
 	'cv2 
