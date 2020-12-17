@@ -2,7 +2,7 @@
 
 ## Herpetofauna Species Classification from Images with Deep Neural Network
 
-This repo contains codes for the research work of IETC_2020 conference publication. In this paper, In the paper work, a Convolutional Neural Network (CNN) architecture has been suggested to classify any two species automatically. 
+This repo contains codes for the research work of IETC_2020 conference publication. In the paper work, a Convolutional Neural Network (CNN) architecture has been suggested to classify any two species automatically. 
 
 As an initial experiment, a binary CNN network has been trained and validated to classify snakes, and toads/frog with 9,000 samples collected from various internet public databases. The model evaluation achieved 76% test accuracy on average for the test data that supports the prospects for the recommended model. 
 
