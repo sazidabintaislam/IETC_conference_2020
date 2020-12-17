@@ -6,7 +6,7 @@ This repo contains codes for the research work of IETC_2020 conference publicati
 
 As an initial experiment, a binary CNN network has been trained and validated to classify snakes, and toads/frog with 9,000 samples collected from various internet public databases. The model evaluation achieved 76% test accuracy on average for the test data that supports the prospects for the recommended model. 
 
-A callback function has been applied to the model that stops the training procedure after reaching a particular accuracy/loss score. In thia ripository contains two seperate code: with and without callback function. 
+A callback function has been applied to the model that stops the training procedure after reaching a particular accuracy/loss score. This ripository contains two seperate code: with and without callback function. 
 
 #### To read full paper click [here](https://ieeexplore-ieee-org.libproxy.txstate.edu/document/9249141)
 
